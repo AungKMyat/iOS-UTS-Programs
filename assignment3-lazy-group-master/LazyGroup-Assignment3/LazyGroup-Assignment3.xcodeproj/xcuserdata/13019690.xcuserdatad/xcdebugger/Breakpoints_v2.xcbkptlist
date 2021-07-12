@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "916E927E-E864-4623-9311-B5AE20632379"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2FF7A19-61CC-4A51-AF0A-8704254646CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "160527FA-DACB-4637-90A1-0F9A00C3D694"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/FoodDescriptionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "FoodDescriptionViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D0DB034-C63F-4A3B-8591-5277CA5A763F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/FoodDescriptionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "FoodDescriptionViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE7967E8-52D5-4155-83DE-B7E4B543E18E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DE7967E8-52D5-4155-83DE-B7E4B543E18E - 96d1c4c8100613b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LazyGroup_Assignment3.MainViewController.calorieGoal.getter : Swift.Int"
+                  moduleName = "LazyGroup-Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/13019690/assignment3-lazy-group/LazyGroup-Assignment3/LazyGroup-Assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "DE7967E8-52D5-4155-83DE-B7E4B543E18E - 5c7f5249eecf21c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LazyGroup_Assignment3.MainViewController.calorieGoal.setter : Swift.Int"
+                  moduleName = "LazyGroup-Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/13019690/assignment3-lazy-group/LazyGroup-Assignment3/LazyGroup-Assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "DE7967E8-52D5-4155-83DE-B7E4B543E18E - 950f98917734ac6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LazyGroup_Assignment3.MainViewController.calorieGoal.modify : Swift.Int"
+                  moduleName = "LazyGroup-Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/13019690/assignment3-lazy-group/LazyGroup-Assignment3/LazyGroup-Assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "DE7967E8-52D5-4155-83DE-B7E4B543E18E - 234f31fc484b194e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LazyGroup_Assignment3.MainViewController.calorieGoal.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LazyGroup-Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/13019690/assignment3-lazy-group/LazyGroup-Assignment3/LazyGroup-Assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "DE7967E8-52D5-4155-83DE-B7E4B543E18E - 9f9598f911562b10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LazyGroup_Assignment3.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LazyGroup_Assignment3.MainViewController"
+                  moduleName = "LazyGroup-Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/13019690/assignment3-lazy-group/LazyGroup-Assignment3/LazyGroup-Assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "671">
+               </Location>
+               <Location
+                  uuid = "DE7967E8-52D5-4155-83DE-B7E4B543E18E - e5971fb5f405119"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LazyGroup_Assignment3.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LazyGroup_Assignment3.MainViewController&gt;"
+                  moduleName = "LazyGroup-Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/13019690/assignment3-lazy-group/LazyGroup-Assignment3/LazyGroup-Assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6944A9FC-F527-4042-87AF-1F60959B05A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6944A9FC-F527-4042-87AF-1F60959B05A3 - 9f9598f911562ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LazyGroup_Assignment3.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LazyGroup_Assignment3.MainViewController"
+                  moduleName = "LazyGroup-Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/13019690/assignment3-lazy-group/LazyGroup-Assignment3/LazyGroup-Assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "2775">
+               </Location>
+               <Location
+                  uuid = "6944A9FC-F527-4042-87AF-1F60959B05A3 - e5971fb5f4056ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LazyGroup_Assignment3.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LazyGroup_Assignment3.MainViewController&gt;"
+                  moduleName = "LazyGroup-Assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/13019690/assignment3-lazy-group/LazyGroup-Assignment3/LazyGroup-Assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "2716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83A67AB0-3C16-4BC9-A717-EEB6A5D39B58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/SettingsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "submit(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2841778-2CC0-4AD1-9ED4-B0A2B07DE1D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/SettingsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "submit(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA938ADE-20FA-42DA-8E48-A3F21D061278"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4B69F9E-6FA1-45F5-8799-7A47CE843756"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LazyGroup-Assignment3/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
